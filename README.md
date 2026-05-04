@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sahithi
-- Currently working as a Technical Writer.
+- 💻 Currently working as a Technical Writer.
 - 👀 Interested in so many things and often stuck in middle.
 - 🌱Currently exploring the world of writing and coding one at a time.
 <!---
